@@ -1,2 +1,4 @@
 # rect
-a rect,  a bit interstresting
+a rect,  a rect walker
+<br/>
+<img src="long_rect.png"/>
